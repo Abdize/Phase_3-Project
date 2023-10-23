@@ -5,7 +5,7 @@
 * Student name: Abdihakim S Mohamed
 * Student pace: Part Time
 * Scheduled project review date/time:
-* Instructor name: Maryan Mwikali
+* Instructor name: Asha Deen
 
 ## Project Overview
 
