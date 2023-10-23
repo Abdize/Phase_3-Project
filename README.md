@@ -1,28 +1,24 @@
 
-# Phase 3 Project Description
+# Phase 3 Project 
 
-Congratulations! You've made it through another _intense_ module, and now you're ready to show off your newfound Machine Learning skills!
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-3-project-v2-3/main/images/smart.gif)
-
-All that remains in Phase 3 is to put your new skills to use with another large project!
-
-In this project description, we will cover:
-
-* Project Overview
-* Deliverables
-* Grading
-* Getting Started
+* Student name: Abdihakim S Mohamed
+* Student pace: Part Time
+* Scheduled project review date/time:
+* Instructor name: Maryan Mwikali
 
 ## Project Overview
 
-For this project, you will engage in the full data science process from start to finish, solving a **classification** problem using a **dataset of your choice**.
+The project aims to create a model that predicts the probability of SyriaTel's customers ending their service subscriptions. This effort primarily revolves around binary classification techniques. The dataset at our disposal encompasses comprehensive details about customer service plans, their usage habits, and historical interactions with SyriaTel.
+
 
 ### Business Problem and Data
 
-Similar to the Phase 2 project, it is up to you to define a stakeholder and business problem. Unlike the Phase 2 project, you are also responsible for choosing a dataset.
+The telecommunications sector, especially entities eager to curtail financial setbacks from short-term customers, is the primary target audience for this study. The central question is: Can we discern specific patterns or trends leading to customer churn? Through this endeavor, we aim to discern key factors swaying customer decisions to discontinue their plans. Based on these findings, we seek to provide strategic recommendations to SyriaTel to bolster customer retention, suggesting potential campaigns or incentives to motivate customers to maintain or even prolong their association with the company.
 
-For complete details, see [Phase 3 Project - Choosing a Dataset](https://github.com/learn-co-curriculum/dsc-phase-3-choosing-a-dataset).
+### The Data
+
+
 
 ### Key Points
 
