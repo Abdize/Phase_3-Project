@@ -34,6 +34,23 @@ https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset
  
 #### Results
 
+![Nd](https://github.com/Abdize/Phase_3-Project/assets/133906913/56b0678a-beae-4499-89f1-7a1fb0af23ad)
+
+![Heatmap](https://github.com/Abdize/Phase_3-Project/assets/133906913/71509dbb-d450-4fee-a375-1d4f36108dfd)
+
+![Scatter](https://github.com/Abdize/Phase_3-Project/assets/133906913/69fd3ae7-084a-4185-8f01-5d83f257db98)
+
+![churn by state](https://github.com/Abdize/Phase_3-Project/assets/133906913/8bdd97ce-ba9a-43db-aa4b-461b90552c10)
+
+![charge by state](https://github.com/Abdize/Phase_3-Project/assets/133906913/7be85945-eada-48cb-9ae3-3e661f993007)
+
+
+![GridsearchCV](https://github.com/Abdize/Phase_3-Project/assets/133906913/f327c0cd-ba6f-4aa1-a420-9d32846900df)
+
+![Rf](https://github.com/Abdize/Phase_3-Project/assets/133906913/80c3b96f-b495-4ef3-b218-64f919be9ebd)
+
+![Final RF](https://github.com/Abdize/Phase_3-Project/assets/133906913/1166db0e-95eb-42e3-ab93-d90b652c6d0c)
+
 
 
 
